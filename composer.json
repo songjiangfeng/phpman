@@ -22,9 +22,12 @@
         "drupal/core-project-message": "^9.1",
         "drupal/core-recommended": "^9.1",
         "drupal/core-vendor-hardening": "^9.1",
+        "drupal/menu_link_attributes": "1.x-dev@dev",
         "drupal/migrate_tools": "5.x-dev@dev",
         "drupal/pathauto": "^1.8",
+        "drupal/visitors": "^2.7",
         "drupal/wordpress_migrate": "3.x-dev@dev",
+        "drupal/xmlsitemap": "^1.0",
         "drush/drush": "^10.4"
     },
     "conflict": {
